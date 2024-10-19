@@ -1,6 +1,6 @@
-# Untitled Project 🌌
+
 <div align="center">
-    <h1>Untitled Project</h1>
+    <h1>Untitled Project 🌌</h1>
     <p>
     <!-- Last Modified -->
     <a href="https://github.com/Stratxgy/Untitled-Project/commits">
