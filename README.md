@@ -6,7 +6,7 @@
     <a href="https://github.com/Stratxgy/Untitled-Project/commits">
         <img src="https://img.shields.io/github/last-commit/ttwizz/Open-Aimbot?label=Last%20Modified" alt="Last Modified" />
     </a>
-
+</div>
 ## Load the Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Untitled-Project/refs/heads/main/Untitled%20Project.lua"))()
