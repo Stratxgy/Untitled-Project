@@ -1,4 +1,8 @@
 # Untitled Project 🌌
+    <!-- Last Modified -->
+    <a href="https://github.com/Stratxgy/Untitled-Project/commits">
+        <img src="https://img.shields.io/github/last-commit/ttwizz/Open-Aimbot?label=Last%20Modified" alt="Last Modified" />
+    </a>
 
 ## Load the Script
 ```lua
