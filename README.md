@@ -8,3 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Untitled-Pro
 -
 - <div align="center">
 
+### v1.0 OUT NOW (10/25/24) 
+## added tons of features and new ui lib
+
