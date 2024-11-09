@@ -8,7 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Untitled-Pro
 -
 - <div align="center">
 
-## v1.0 OUT NOW (10/25/24) 
-### added tons of features and new ui lib
+# OK. aura is coming out. it's soon. One universal and one for dh. I'll code one for rivals after release.
 
-# Giant update soon!
+# Deadline is end of november, 100% by the 20th
