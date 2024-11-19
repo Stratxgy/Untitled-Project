@@ -10,4 +10,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Untitled-Pro
 
 #  [Aura](https://github.com/Stratxgy/Aura) is about to come out!
 
-# Deadline is end of november
+
