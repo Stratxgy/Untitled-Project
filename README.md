@@ -8,6 +8,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/Untitled-Pro
 -
 - <div align="center">
 
-# OK. aura is coming out. it's soon. One universal and one for dh. I'll code one for rivals after release.
+#  [Aura](https://github.com/Stratxgy/Aura) is about to come out!
 
-# Deadline is end of november, 100% by the 20th
+# Deadline is end of november
